@@ -1,2 +1,2 @@
-## Bookmark Manager
-# Опис проекту
+# Bookmark Manager
+### Опис проекту
